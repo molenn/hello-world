@@ -1,5 +1,6 @@
 # hello-world
-M@'s development playground and test repository for GitHub.
+*M@'s development playground and test repository for GitHub.*
+
 After having gone on hiatus from full-stack web development for a few years to run an IT Project Management Office with the Small Business Administration and, currently, performing IT policy analysis and acquisitions at the [First Responders Network Authority](https://www.firstnet.gov/), I'm getting back into coding.  I love software development and piecing together solutions.  Solving a problem, seeing it work, building it up bit by bit is incredibly rewarding and I want to spend more time doing it.
 
 My goal for this account is to build a code base of web applications that I can draw from and share with others.  I plan to take on some freelance projects and build up a slick portfolio.  My son is also getting into programming and is dying to create some video games, so we may collaborate on that.  He's six, so I can't tell how interested he'll be in the idea a week from now.
